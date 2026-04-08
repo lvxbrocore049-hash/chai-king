@@ -7,7 +7,7 @@
 const CACHE_NAME = 'chaiking-v1';
 
 const CACHE_FILES = [
-  './chai-king-v2-1.html',
+  './index.html',
   './manifest.json',
 
   // Icons (all lowercase except extension)

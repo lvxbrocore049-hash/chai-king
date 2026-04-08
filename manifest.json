@@ -2,7 +2,7 @@
   "name": "Chai King of the Cosmos",
   "short_name": "Chai King",
   "description": "From Gully to Galaxy — one cup at a time ☕",
-  "start_url": "./chai-king-v2-1.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#07080f",
